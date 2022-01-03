@@ -1,3 +1,3 @@
 <?php
-echo 'one1';
+echo 'one';
 
