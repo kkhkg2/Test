@@ -1,3 +1,2 @@
 <?php
-echo 'one1';
-
+echo 'master';
